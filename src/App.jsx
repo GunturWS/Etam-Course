@@ -15,11 +15,9 @@ import MyCourse from "./pages/Course/MyCourse";
 import VerifyEmail from "./pages/auth/VerifyEmail";
 import TopikKelas from "./pages/TopikKelas/TopikKelas";
 import MulaiKelas from "./pages/MulaiKelas/MulaiKelas";
-
 // ADMIN
 import AdminDashboard from "./pages/admin/AdminDashboard";
 //ADMIN KELOLA DATA
-
 import AdminDataKategori from "./pages/admin/KelolaDataAdmin/AdminDataKategori";
 import AdminDataLevel from "./pages/admin/KelolaDataAdmin/AdminDataLevel";
 import AdminDataType from "./pages/admin/KelolaDataAdmin/AdminDataType";
